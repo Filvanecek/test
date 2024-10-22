@@ -17,5 +17,15 @@
         ]
       }
     ]
-  }
+  },
+  "getPdfGiftCards": {
+  "errorCount": 0,
+  "errors": [],
+  "result": [
+    {
+      "giftCardCode": ".F9HNTHSV8MVBS",
+      "pdfBase64": "U3dhZ2dlciByb2Nrcw=="
+    }
+  ]
+}
 }
