@@ -1,0 +1,26 @@
+{
+  "errorCount": 0,
+  "errors": [
+    {
+      "message": "FaRMIS timeout",
+      "messageCode": "farmis_timeout",
+      "detail": "Farmis finished with timeout",
+      "giftCardTypeId": 1
+    }
+  ],
+  "resultSet": [
+    {
+      "giftCardTypeId": 0,
+      "result": [
+        {
+          "giftCardTypeId": 3108,
+          "giftCardCode": ".F9HNTHSV8MVBS",
+          "dateTimeExpirationFrom": "2017-04-10T12:34:00Z",
+          "dateTimeExpirationTo": "2017-04-10T12:34:00Z",
+          "price": 99.9,
+          "currency": "CZK"
+        }
+      ]
+    }
+  ]
+}
