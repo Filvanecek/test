@@ -1,14 +1,7 @@
 {
   "test": {
     "errorCount": 0,
-    "errors": [
-      {
-        "message": "FaRMIS timeout",
-        "messageCode": "farmis_timeout",
-        "detail": "Farmis finished with timeout",
-        "giftCardTypeId": 1
-      }
-    ],
+    "errors": [],
     "resultSet": [
       {
         "giftCardTypeId": 0,
